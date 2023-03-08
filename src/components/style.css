@@ -1,0 +1,20 @@
+body{
+    background: rgb(225, 195, 246);
+}
+
+.nav{ 
+    background: pink;
+    
+}
+.nav-link{
+    color: rgb(38, 78, 209);
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color:rgb(244, 119, 173);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    
+}
